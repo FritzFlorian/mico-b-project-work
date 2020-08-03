@@ -7,4 +7,4 @@ as well as an IoT software visualize them.
 
 The [project report](http://github.com) contains further details.
 
-![Two microcontrollers used in the project.](setup-3D.jpg | width=100)
+![Two microcontrollers used in the project.](/setup-3D.jpg)
